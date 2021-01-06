@@ -4,7 +4,7 @@
 
 ## GAME DEVELOPMENT/PLANNING
 
-![ECU](https://img.itch.zone/aW1nLzQxOTAzMTEucG5n/original/LttVVx.png)
+![ECU](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/tree/master/img/exA.png)
 
 ### [EXTENDED CARE UNIT ROOM 19B: ](https://ambrosio.itch.io/extended-care-unit-room-19b)
 I wrote and designed a video game in Game Maker Studio 2’s programming language GML for UA EPSCOR’s first week long game jam. My project was evaluated by a team of judges and awarded first place with a cash prize.
@@ -29,7 +29,7 @@ There are 5 projects: 8-puzzle Solver, Optimal Distance Calculator for Building 
 
 ### [COVID-19 Traveler's Guide and Dashboard: ](https://github.com/Ambrosio-dev/AI_projects)
 
-### [The website you're on right now: ]https://github.com/Ambrosio-dev/Ambrosio-dev.github.io
+### [The website you're on right now: ](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io)
 
 ## ART
 
