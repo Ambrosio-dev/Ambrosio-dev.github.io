@@ -10,6 +10,10 @@ I wrote and designed a video game in Game Maker Studio 2’s programming languag
 ### [four stories COVID: ](https://ambrosio.itch.io/four-stories-covid)
 I wrote and designed an interactive short story with AK DHSS about the consequences of our actions during the COVID-19 Pandemic. The goal of the project was to launch with [AYVA- Amplify Youth Voices Alaska ](https://storymaps.arcgis.com/stories/ed9f4d5bfb84461a94c91a6b862ae7a8) and help spread messages of safety, hope, and love in the AK community while encouraging artistic expression.As part of this project, I worked with the State of Alaska to teach a digital course educating youth on how to create their own games. Project was was made in Twine with additional HTML/CSS/JS.  
 
+
+### [INDIEPOCALYPSE: ](https://pizzapranks.itch.io/indiepocalypse-12)
+My work was featured in issue 12 of the digital gaming and comic zine Indiepocalypse with a group of 9+ other developers and artists. 
+
 ### [6TH STREET IN THE YEAR 2043 COMIC: ](https://ambrosio.itch.io/6th-street-in-the-year-2043)
 I wrote, illustrated, and digitally self-published a 24 page comic book under 
 Thomas Chung, an artist regularly featured at the Anchorage Museum. Donations for the comic are routed to a national charity. 
