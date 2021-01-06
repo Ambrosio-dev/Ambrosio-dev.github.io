@@ -36,7 +36,7 @@ A React project built with Soo Hee Bae and Branden Gookin in 2020. This project 
 
 ### [The website you're on right now](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io)
 
-<center> ## ART </center>
+## ART 
 
 ![6TH](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exD.png?raw=true)
 
