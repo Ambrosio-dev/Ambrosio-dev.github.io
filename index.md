@@ -16,12 +16,7 @@ Thomas Chung, an artist regularly featured at the Anchorage Museum. Donations fo
 
 ### [AI Projects: ](https://github.com/Ambrosio-dev/AI_projects)
 These are projects created by programmer Josh Riddles and myself used in our undergraduate/master's AI course at UAA.
-There are 5 projects:
-8-puzzle Solver
-Optimal Distance Calculator for Building Hospitals
-Pathways Game w/ PVP mode and PVAI mode
-Sudoku Puzzle Solver
-Basic Machine Learning Trainer for Guessing Political Alignment
+There are 5 projects: 8-puzzle Solver, Optimal Distance Calculator for Building Hospitals, Pathways Game w/ PVP mode and PVAI mode, Sudoku Puzzle Solver, Basic Machine Learning Trainer for Guessing Political Alignment
 
 ### [SUPERCONSCIOUS DEMO AND DESIGN DOCUMENTS: ](https://github.com/cannibalsteven/SUPERCONSCIOUS-GML-DESIGN-DOC) 
 An early-progress version of a text adventure RPG built in Gamemaker Studio using their proprietary language GML. This project also includes various design documents and blueprints including: level progression, GUI layouts, level layouts and descriptions, etc. Work was done under UAA's Kenrick Mock during Fall 2019. 
