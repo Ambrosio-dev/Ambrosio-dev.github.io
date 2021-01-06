@@ -8,7 +8,7 @@
 I wrote and designed a video game in Game Maker Studio 2’s programming language GML for UA EPSCOR’s first week long game jam. My project was evaluated by a team of judges and awarded first place with a cash prize.
 
 ### [four stories COVID: ](https://ambrosio.itch.io/four-stories-covid)
-I wrote and designed an interactive short story with AK DHSS about the consequences of our actions during the COVID-19 Pandemic. The goal of the project was to launch with [AYVA- Amplify Youth Voices Alaska ](https://storymaps.arcgis.com/stories/ed9f4d5bfb84461a94c91a6b862ae7a8) and help spread messages of safety, hope, love, and encouragement in the AK community while encouraging artistic expression. I also taught a digital course educating youth on how to create their own games. Project was was made in Twine with additional HTML/CSS/JS.  
+I wrote and designed an interactive short story with AK DHSS about the consequences of our actions during the COVID-19 Pandemic. The goal of the project was to launch with [AYVA- Amplify Youth Voices Alaska ](https://storymaps.arcgis.com/stories/ed9f4d5bfb84461a94c91a6b862ae7a8) and help spread messages of safety, hope, and love in the AK community while encouraging artistic expression.As part of this project, I worked with the State of Alaska to teach a digital course educating youth on how to create their own games. Project was was made in Twine with additional HTML/CSS/JS.  
 
 ### [6TH STREET IN THE YEAR 2043 COMIC: ](https://ambrosio.itch.io/6th-street-in-the-year-2043)
 I wrote, illustrated, and digitally self-published a 24 page comic book under 
