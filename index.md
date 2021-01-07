@@ -13,7 +13,7 @@ I wrote and designed a video game in Game Maker Studio 2’s programming languag
 ![fsC](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exA.png?raw=true)
 
 ### [four stories COVID: ](https://ambrosio.itch.io/four-stories-covid)
-I wrote and designed an interactive short story with AK DHSS about the consequences of our actions during the COVID-19 Pandemic. The goal of the project was to launch with [AYVA- Amplify Youth Voices Alaska ](https://storymaps.arcgis.com/stories/ed9f4d5bfb84461a94c91a6b862ae7a8) and help spread messages of safety, hope, and love in the AK community while encouraging artistic expression.As part of this project, I worked with the State of Alaska to teach a digital course educating youth on how to create their own games. Project was was made in Twine with additional HTML/CSS/JS.  
+I wrote and designed an interactive short story with AK DHSS about the consequences of our actions during the COVID-19 Pandemic. The goal of the project was to launch with [AYVA- Amplify Youth Voices Alaska ](https://storymaps.arcgis.com/stories/ed9f4d5bfb84461a94c91a6b862ae7a8) and help spread messages of safety, hope, and love in the AK community while encouraging artistic expression. As part of this project, I worked with the State of Alaska to teach a digital course educating youth on how to create their own games. Project was was made in Twine with additional HTML/CSS/JS.  
 
 ![IND](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exC.png?raw=true)
 
