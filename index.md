@@ -2,7 +2,8 @@
 ### Email: [milosticklefrizzell@gmail.com](mailto:milosticklefrizzell@gmail.com)
 ### Itch.io Website: [https://ambrosio.itch.io/](https://ambrosio.itch.io/)
 
-## GAME DEVELOPMENT/PLANNING
+
+# GAME DEVELOPMENT/PLANNING
 
 ![ECU](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exB.png?raw=true)
 
@@ -25,7 +26,7 @@ An early-progress version of a text adventure RPG built in Gamemaker Studio usin
 ### [SUPERCONSCIOUS PYTHON PROTOTYPE/LINUX CONVERSION: ](https://github.com/cannibalsteven/Superconscious-Python-Prototype)
 A prototype of the Superconscious game built in Python using the Pygame library. This also includes a document which details the logic paths and data which fills the game.
 
-## SOFTWARE PROJECTS
+# SOFTWARE PROJECTS
 
 ### [AI Projects: ](https://github.com/Ambrosio-dev/AI_projects)
 These are projects created by programmer Josh Riddles and myself used in our undergraduate/master's AI course at UAA.
@@ -36,7 +37,7 @@ A React project built with Soo Hee Bae and Branden Gookin in 2020. This project 
 
 ### [The website you're on right now](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io)
 
-## ART 
+# ART 
 
 ![6TH](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exD.png?raw=true)
 
