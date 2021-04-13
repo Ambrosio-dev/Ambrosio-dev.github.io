@@ -40,6 +40,8 @@ navigation_header:
   url: /games/
 - title: Projects
   url: /projects/
+- title: Art
+  url: /art/
 
 # Footer nav
 navigation_footer:
