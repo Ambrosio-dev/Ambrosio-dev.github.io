@@ -1,8 +1,6 @@
 ---
-title: About this website
+title: GAME DEVELOPMENT
 ---
-
-
 
 # GAME DEVELOPMENT
 
