@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: Milo Stickle-Frizzell
+description: I’m a software/indie game developer and artist living in Anchorage, AK, currently attending University of Alaska Anchorage. This website hosts projects I've worked on as a student. Check them out!
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
