@@ -2,7 +2,6 @@
 title: GAME DEVELOPMENT
 ---
 
-# GAME DEVELOPMENT
 
 ![ECU](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exB.png?raw=true)
 
