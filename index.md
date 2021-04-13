@@ -1,6 +1,6 @@
 ---
 title: Milo Stickle-Frizzell
-feature_image: "ambrosiosplash.png"
+feature_image: "/img/ambrosiosplash.png"
 feature_text: |
 ---
 
