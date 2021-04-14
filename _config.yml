@@ -26,7 +26,7 @@ baseurl: ''
 title: Milo Stickle-Frizzell
 description: I’m a software/indie game developer and artist living in Anchorage, AK, currently attending University of Alaska Anchorage. This website hosts projects I've worked on as a student. Check them out!
 permalink: pretty
-logo: "/img/avatar.png"
+logo: "/img/avatar.svg"
 
 # Pagination
 paginate: 5
