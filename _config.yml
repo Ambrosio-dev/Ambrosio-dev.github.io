@@ -72,3 +72,6 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+      
+      colors:
+  yellow:     '#111111'
