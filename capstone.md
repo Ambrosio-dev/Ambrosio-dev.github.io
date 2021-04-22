@@ -123,12 +123,9 @@ The above elements compile into a game within the Gamemaker 2 engine.
 
 Design Documents:
 
-Besides what has been listed in the rest of this document, there is currently an in-development folder for D/E/A/T/H design documents. Some of them are out of date, but others have specific descriptions relating to the narrative, game design structure, and other such element:
-https://drive.google.com/drive/folders/10GqdOI8pMU10aX8hrJAeGLOMlhzjE9jb?usp=sharing
+Besides what has been listed in the rest of this document, there is currently an in-development folder for D/E/A/T/H design documents.
 
 As the semester progresses, and development ramps up this folder will grow in size, and the documents will be continued to be filled out in further detail. However, currently the rough outline for the entire game (and various previous versions of it) are present.
-
-Due to wanting to maintain privacy of the documents you will need to request access to your account for the drive folder and files via the link above.
 
 
 Testing Plan & Debugging:
