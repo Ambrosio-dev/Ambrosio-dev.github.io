@@ -1,7 +1,7 @@
 ---
 title: CAPSTONE PROJECT
 ---
-PROJECT: Creating a Video Game Demo/Prototype (D/E/A/T/H) 
+PROJECT: Creating a Video Game Demo/Prototype - D/E/A/T/H (the first cycle)
 
 Team: 
 Milo Stickle-Frizzell
@@ -11,11 +11,9 @@ Objectives:
 
 The primary goal of this project is to create a market ready slice of a video game that can be used for the purposes of marketing and player feedback. This will serve as base for further developments, but will exist as a cohesive and finished piece of software. 
 
-I intend to shop around my work I produce to publishers as I gain more skill. This will serve as my first attempt to create a marketable work that can attract the eye of a publisher.
-
 The demo itself will encompass the first act of the story, or “level” as you might call it. I estimate currently it will be 45 minutes to 1 hour in length.
 
-The title of this project is currently D/E/A/T/H.
+The title of this project is currently D/E/A/T/H (the first cycle).
 
 Background:
 
@@ -35,26 +33,6 @@ As mentioned in the first class for this course, this project is intended to ser
 While the majority of this project will be focused on software fundamentals including programming, designing, documenting, and communicating, there will be more than CSCE involved. Namely, the creation of art assets. 
 
 I am earning two degrees currently, and this is my final semester. My first degree is Computer Science, but my second is Art. As such this project serves as the culmination of both of these degrees, allowing me to produce a work that requires me to push my boundaries as both a developer and an artist.  
-
-Current Status:
-
-I have already started the development on this project. This includes:
-Pre-production designing the aesthetic and sketching some visual designs
-Outlining the narrative for the entire game, and a more detailed and specific outline of the section encompassed by the demo. This includes some scenes which have already been written.
-A prototype featuring a menu, and two semi-playable sequences from the very beginning of the game that serve as a proof of concept. 
-An online repository which I have been uploading the prototype to as I have worked on it over the past week. I anticipated using this as my project for this course and have already started including detailed comments on what is added in each commit. 
-This repository is private, because I don’t want to share the source code with the public, but you can access it on Github by letting me share it with your profile.
-
-I have included screenshots from the prototype below. I can also provide you with an executable of my work if needed so you don’t have to acquire a copy of the software and its license.
-
-Much of what is below is very very early development, as such I am using some placeholder assets:
-
-Functional Title Screen:
-
-Visual Novel Segment with Selectable Options:
-
-Controllable Ship/Shooter Section with Basic Moves Programmed:
-
 
 
 Tools: 
