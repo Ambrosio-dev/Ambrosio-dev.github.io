@@ -42,8 +42,8 @@ navigation_header:
   url: /projects/
 - title: Art
   url: /art/
-  - title: Capstone
-  url: /Capstone/
+- title: Capstone
+  url: /capstone/
 
 
 # Footer nav
