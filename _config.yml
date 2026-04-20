@@ -79,4 +79,7 @@ defaults:
     values:
       layout: page # Set the default layout for pages
       
-
+exclude:
+- projects/
+- art/
+- capstone/
