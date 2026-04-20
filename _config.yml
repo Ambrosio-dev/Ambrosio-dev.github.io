@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: daviddarnes/alembic@main
+remote_theme: pages-themes/minimal@v0.2.0
 
 # File excludes
 exclude:
@@ -24,7 +24,7 @@ plugins:
 url: 'https://mydomain.com'
 baseurl: ''
 title: Milo Stickle-Frizzell
-description: I’m a software/indie game developer and artist living in Anchorage, AK, currently attending University of Alaska Anchorage. This website hosts projects I've worked on as a student. Check them out!
+description: Software / Game Developer
 permalink: pretty
 logo: "/img/avatar.png"
 
@@ -38,12 +38,6 @@ navigation_header:
   url: /
 - title: Games
   url: /games/
-- title: Projects
-  url: /projects/
-- title: Art
-  url: /art/
-- title: Capstone
-  url: /capstone/
 
 
 # Footer nav
