@@ -2,23 +2,23 @@
 title: GAME DEVELOPMENT
 ---
 
-<img src="https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/T+Dx3 L1.jpg?raw=true" alt="T+Dx3" style="width: 50%; height: auto;">
+<p style="text-align: center;"><img src="https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/T+Dx3 L1.jpg?raw=true" alt="T+Dx3" style="width: 50%; height: auto;"></p>
 ### T+Dx3: TASMANIAN DEVIL DELIVERY DEVIL LEVEL 1: producer (repeat)
 T+Dx3: TASMANIAN DEVIL DELIVERY DEVIL is an RPG Maker MZ story game set in a toxic industrial city where survival means staying on route. In Level 1: Producer, you play as Billy, a low-born deliverer trying to finish dangerous jobs, manage gear, and make it through another shift in a world that treats workers as disposable. Built more as an art game than a traditional power fantasy, it focuses on mood, dialogue, and oppressive worldbuilding, using RPG systems to support a harsher, more character-driven descent.
 
-![FVS](https://img.itch.zone/aW1nLzE2NTA1ODQxLnBuZw==/original/UBWz2u.png)
+<p style="text-align: center;">![FVS](https://img.itch.zone/aW1nLzE2NTA1ODQxLnBuZw==/original/UBWz2u.png)</p>
 ### T+Dx3: TASMANIAN DEVIL DELIVERY DEVIL LEVEL 1: producer (repeat)
 From Vapor and Shadow: Prologue is a Visual Novel RPG teaser introducing the world featured in the Kickstarter TTRPG 5E module Belome: Secrets of Vapor and Shadow. 
 
-![ECU](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exB.png?raw=true)
+<p style="text-align: center;">![ECU](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exB.png?raw=true)</p>
 ### [EXTENDED CARE UNIT ROOM 19B: ](https://ambrosio.itch.io/extended-care-unit-room-19b)
 I wrote and designed a video game in Game Maker Studio 2’s programming language GML for UA EPSCOR’s first week long game jam. My project was evaluated by a team of judges and awarded first place with a cash prize.
 
-![fsC](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exA.png?raw=true)
+<p style="text-align: center;">![fsC](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exA.png?raw=true)</p>
 ### [four stories COVID: ](https://ambrosio.itch.io/four-stories-covid)
 I wrote and designed an interactive short story with AK DHSS about the consequences of our actions during the COVID-19 Pandemic. The goal of the project was to launch with AYVA- Amplify Youth Voices Alaska and help spread messages of safety, hope, and love in the AK community while encouraging artistic expression. As part of this project, I worked with the State of Alaska to teach a digital course educating youth on how to create their own games. Project was was made in Twine with additional HTML/CSS/JS.  
 
-![IND](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exC.png?raw=true)
+<p style="text-align: center;">![IND](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/exC.png?raw=true)</p>
 ### [INDIEPOCALYPSE: ](https://pizzapranks.itch.io/indiepocalypse-12)
 My work was featured in issue 12 of the digital gaming and comic zine Indiepocalypse with a group of 9+ other developers and artists. 
 
