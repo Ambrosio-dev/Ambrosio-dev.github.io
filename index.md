@@ -1,8 +1,8 @@
 ---
-title: Milo Stickle-Frizzell
-bg: yellow
-feature_image: "/img/ambrosiosplash.png"
-feature_text: |
+title: AMBROSIO
+bg:
+feature_image: 
+feature_text: 
 ---
 
 ### [Itch.io](https://ambrosio.itch.io/)
