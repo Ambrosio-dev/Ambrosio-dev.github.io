@@ -9,3 +9,15 @@ html,
 body {
   background: yellow !important;
 }
+
+a:hover,
+a:focus {
+  color: darkred !important;
+}
+
+/* Make navbar text larger */
+.nav a,
+.site-nav a,
+nav a {
+  font-size: 1.4rem !important;
+}
