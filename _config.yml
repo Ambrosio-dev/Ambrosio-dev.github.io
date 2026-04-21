@@ -29,7 +29,7 @@ baseurl: ''
 title: Milo Stickle-Frizzell
 description: Software / Game Developer
 permalink: pretty
-logo: "/img/avatar3.png"
+logo: "/img/Avatar3.png"
 
 # Pagination
 paginate: 5
