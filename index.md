@@ -2,7 +2,7 @@
 title: AMBROSIO 
 bg:
 feature_image: 
-feature_text: Software/ Game Developer
+feature_text: Software / Game Developer
 ---
 
 [<img src="https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/logo-black-new.svg?raw=true" alt="Itch.io" style="width: 150%; height: auto;">](https://ambrosio.itch.io/)
