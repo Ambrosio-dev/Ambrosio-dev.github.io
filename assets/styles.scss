@@ -10,14 +10,23 @@ body {
   background: yellow !important;
 }
 
+/* Regular links */
+a {
+  color: red !important;
+}
+
+/* Hover/focus */
 a:hover,
 a:focus {
   color: darkred !important;
 }
 
-/* Make navbar text larger */
+/* Navbar links */
+nav a,
 .nav a,
 .site-nav a,
-nav a {
-  font-size: 1.4rem !important;
+.header a,
+.site-header a {
+  color: red !important;
+  font-size: 2rem !important;
 }
