@@ -11,6 +11,5 @@ feature_text:
 
 [<img src="https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/Instagram_Logo.png?raw=true" alt="Instagram" style="width: 150%; height: auto;">](https://www.instagram.com/ambrosio.dev/)
 
-<p style="text-align: center;">
 ### [Email](mailto:ambrosio-dev@gmail.com)
-</p>
+
