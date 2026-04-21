@@ -2,7 +2,7 @@
 title: GAME DEVELOPMENT
 ---
 
-![T+Dx3](img)
+![T+Dx3](https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/437d6876a42d04b4ef015471a8df78d396b72778/img/T%2BDx3%20L1.jpg)
 
 ### T+Dx3: TASMANIAN DEVIL DELIVERY DEVIL LEVEL 1: producer (repeat)
 
