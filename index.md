@@ -1,8 +1,8 @@
 ---
-title: 
+title: Links and Socials
 bg:
 feature_image: 
-feature_text: Links and Socials
+feature_text: 
 ---
 
 ### [Itch.io](https://ambrosio.itch.io/)
