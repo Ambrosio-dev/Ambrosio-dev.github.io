@@ -2,7 +2,7 @@
 title: GAME DEVELOPMENT
 ---
 
-<img src="https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/T+Dx3 L1.png?raw=true" alt="T+Dx3" style="width: 25%; height: auto;">
+<img src="https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/T+Dx3 L1.jpg?raw=true" alt="T+Dx3" style="width: 25%; height: auto;">
 ### T+Dx3: TASMANIAN DEVIL DELIVERY DEVIL LEVEL 1: producer (repeat)
 T+Dx3: TASMANIAN DEVIL DELIVERY DEVIL is an RPG Maker MZ story game set in a toxic industrial city where survival means staying on route. In Level 1: Producer, you play as Billy, a low-born deliverer trying to finish dangerous jobs, manage gear, and make it through another shift in a world that treats workers as disposable. Built more as an art game than a traditional power fantasy, it focuses on mood, dialogue, and oppressive worldbuilding, using RPG systems to support a harsher, more character-driven descent.
 
