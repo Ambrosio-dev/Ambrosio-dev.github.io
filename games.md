@@ -6,7 +6,7 @@ title: GAME DEVELOPMENT
   <img src="https://github.com/Ambrosio-dev/Ambrosio-dev.github.io/blob/master/img/T+Dx3%20L1.jpg?raw=true" alt="T+Dx3" style="width: 50%; height: auto;">
 </p>
 
-### T+Dx3: TASMANIAN DEVIL DELIVERY DEVIL LEVEL 1: Producer
+### T+Dx3: TASMANIAN DEVIL DELIVERY DEVIL LEVEL 1: producer (repeat)
 
 T+Dx3: TASMANIAN DEVIL DELIVERY DEVIL is an RPG Maker MZ story game set in a toxic industrial city where survival means staying on route. In Level 1: Producer, you play as Billy, a low-born deliverer trying to finish dangerous jobs, manage gear, and make it through another shift in a world that treats workers as disposable. Built more as an art game than a traditional power fantasy, it focuses on mood, dialogue, and oppressive worldbuilding, using RPG systems to support a harsher, more character-driven descent.
 
@@ -14,7 +14,7 @@ T+Dx3: TASMANIAN DEVIL DELIVERY DEVIL is an RPG Maker MZ story game set in a tox
   <img src="https://img.itch.zone/aW1nLzE2NTA1ODQxLnBuZw==/original/UBWz2u.png" alt="From Vapor and Shadow" style="width: 75%; height: auto;">
 </p>
 
-### From Vapor and Shadow: Prologue
+### [From Vapor and Shadow: Prologue](https://ambrosio.itch.io/from-vapor-and-shadow-prologue)
 
 From Vapor and Shadow: Prologue is a visual novel RPG teaser introducing the world featured in the Kickstarter TTRPG 5E module *Belome: Secrets of Vapor and Shadow*.
 
