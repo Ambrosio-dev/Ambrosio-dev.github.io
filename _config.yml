@@ -6,6 +6,9 @@ exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
+- projects.md
+- art.md
+- capstone.md
 
 # Set plugins
 plugins:
@@ -72,8 +75,3 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
-      
-exclude:
-- projects/
-- art/
-- capstone/
